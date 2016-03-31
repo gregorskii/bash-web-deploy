@@ -1,5 +1,13 @@
 # Laravel Deploy Shell Script
 
+```
+TODO:
+
+This is used in several projects, but project specfic code was removed. Code needs to be tested against a blank server with a default project.
+
+Will do ASAP
+```
+
 Deploys a laravel site to a remote server using SSH and RSYNC.
 
 **Features:**
